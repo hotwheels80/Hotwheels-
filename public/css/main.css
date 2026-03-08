@@ -1,36 +1,59 @@
 body {
-    background-color: #2a2b2f; 
-    display: flex; 
-    flex-direction: column;
-    justify-content: center; 
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-    font-weight: 300;
-    color: #fff;
-    text-align:center;
-}
+Height	6292
+Status	In best chain (933611 confirmations)
+Timestamp	2009-03-04 03:00:31 GMT -8
+Size	0.216 KB
+Virtual size	1 vKB
+Weight units	0.864 KWU
+Version	0x01
+Merkle root	1a980830e06fa2d47ad6008cb8554a7e1cd17a8e670edf01e1a66e583058a713
+Bits	0x1d00ffff
+Difficulty	1
+Nonce	0xe07dea14
+Confirmed tx count	6292
+Confirmed received	6295 outputs (19482.96835239 BTC)
 
-.mona-images {
-    max-width: 400px;
-    max-height: 400px;
-    border: 8px solid #fff;
-}
-
-.haiku-containers {
-    padding: 10px 0px 20px 0px;
-}
-
-.haikus {
-    font-size: 18px;
-    white-space: pre-wrap;
-}
-
-@media only screen and (max-width: 600px) {
-    .june-images {
-        max-width: 340px;
-        max-height: 340px;
-    }
-
-    .haikus {
-        font-size: 22px;
-    }
-}
+Confirmed spent	6079 outputs (19294.29745757 BTC)
+Confirmed unspent	216 outputs (188.67089482 BTC)
+Last Balance Change	2026-03-08 15:16:27 GMT -7
+    Coinbase
+scriptSig (asm)
+OP_PUSHBYTES_4 ffff001d OP_PUSHBYTES_2 330a
+scriptSig (hex)
+04ffff001d02330a
+nSequence
+0xffffffff
+P2PK
+50 BTC
+Type
+P2PK
+scriptPubKey (asm)
+OP_PUSHBYTES_65 04f47e80448743a65fdc1c0e0ad63808ee50089034d72ab57672d7ff0399be29d8882a79fed193f6c26cb3ea9954110bb751f1daba1aa454daba8da5dce99b7dd1 OP_CHECKSIG
+scriptPubKey (hex)
+4104f47e80448743a65fdc1c0e0ad63808ee50089034d72ab57672d7ff0399be29d8882a79fed193f6c26cb3ea9954110bb751f1daba1aa454daba8da5dce99b7dd1ac
+Spending tx
+Unspent
+ BTC
+OP_RETURN
+0 BTC
+OP_RETURN
+0 BTC
+OP_RETURN
+0 BTC
+OP_RETURN
+0 BTC
+OP_RETURN
+0 BTC
+OP_RETURN
+0 BTC
+7 confirmations 3.12939708 BTC
+1K6KoYC69NnafWJ7YgtrpwJxBLiijWqwa6
+0.00000546 BTC
+Type
+P2PKH
+scriptPubKey (asm)
+OP_DUP OP_HASH160 OP_PUSHBYTES_20 c6740a12d0a7d556f89782bf5faf0e12cf25a639 OP_EQUALVERIFY OP_CHECKSIG
+scriptPubKey (hex)
+76a914c6740a12d0a7d556f89782bf5faf0e12cf25a63988ac
+Spending tx
+Unspent
